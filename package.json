@@ -1,0 +1,8 @@
+{
+  "name": "mf",
+  "scripts": {
+    "start": "pnpm -r --parallel run start",
+    "preview": "pnpm -r --parallel run preview",
+    "build": "pnpm -r --parallel run build"
+  }
+}
